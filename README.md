@@ -1,4 +1,4 @@
-# Hello! im **Veronje**
+# Hello! Im **Veronje**
 
 Im a 20 year old person from nothern Norway, now living in south Norway.
 
