@@ -1,13 +1,13 @@
 # Hello! im **Veronje**
 
-Im a 20 year old person from nothern Norway, now in south Norway.
+Im a 20 year old person from nothern Norway, now living in south Norway.
 
 Experience:
-- Summer job as a helper in network programming when i was 16
+- Summer job assisting in network programming in 2022
 - Studying IT and Infomation systems bachelor (1. semester atm)
-- Been playing around with Microbit, Scratch and Lego Mindstorms as a kid
+- Played aorund with Micro, LEGO mindstorms, etc as a kid
 
-Other than learning programming i enjoy gaming, paitning, listening to music and going for walks.
+Other than learning programming i enjoy gaming, painting, listening to music and going for walks.
 
 My socials
 
